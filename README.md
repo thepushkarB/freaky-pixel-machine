@@ -11,12 +11,10 @@ This app leverages the [Text-to-Image](https://huggingface.co/spaces/Jonny001/Te
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [How to Use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
+- [Project Structure](#project-structure)
 
 ## Features
 
