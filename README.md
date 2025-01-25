@@ -55,7 +55,7 @@ This app leverages the [Text-to-Image](https://huggingface.co/spaces/Jonny001/Te
 
 ## Run Start the Application
 ```
-npm install
+npm run dev
 ```
 The application will be accessible at http://localhost:3000.
 
@@ -100,7 +100,6 @@ The application will be accessible at http://localhost:3000.
         └── index.css
         └── main.jsx
     └── .DS_Store
-    └── .gitignore
     └── eslint.config.js
     └── index.html
     └── package-lock.json
