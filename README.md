@@ -40,7 +40,7 @@ This app leverages the [Text-to-Image](https://huggingface.co/spaces/Jonny001/Te
 
 1. Clone the repository
     ```bash
-    git clone https://your-repository-url.git
+    git clone https://github.com/thepushkarB/freaky-pixel-machine.git
     cd vite-imgGen
     ```
 
