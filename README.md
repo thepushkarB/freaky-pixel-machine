@@ -24,6 +24,7 @@ This app leverages the [Text-to-Image](https://huggingface.co/spaces/Jonny001/Te
 - Light/Dark mode support
 
 ## Demo
+🔗 **Live Demo:** [TaskRage](https://freakypixel.netlify.app/)
 
 ### Light Mode
 ![Light Mode Screenshot](./src/assets/light-mode-h.png)
